@@ -1,0 +1,95 @@
+html {
+  height: 100%;
+  font-family: "Helvetica", sans-serif;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+	border: none;
+	font-weight: bold;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+	outline: none;
+	background: #4285f4;
+	}
+
+.idioma {
+  display: block;
+  text-align: center;
+  height: 40px;
+  padding-top: 20px;
+}
+
+.logo {
+  height: 100%;
+  margin: auto;
+  width: 550px;
+  padding-top: 160px;
+  display: block;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.datos {
+  display: block;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  margin-left: : auto;
+  margin-right: auto;
+}
+
+.pais {
+  font-size: 15px;
+  color: blue;
+  position: absolute;
+  bottom:40px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
+
+header {
+  font-family: "Arial", sans-serif;
+  font-size: 13px;
+}
+
+.iz {
+  position: absolute;
+  bottom: 0;
+}
+
+.der {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
